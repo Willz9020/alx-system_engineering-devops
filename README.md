@@ -1,1 +1,1 @@
-a non empty readme
+This repository contains solutions to shell tasks
